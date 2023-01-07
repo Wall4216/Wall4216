@@ -2,7 +2,7 @@
 
 ## I'm a young backend web programmer
 
-![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=47C5FB)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel&logoColor=000080)
 
 
 Follow Me.
