@@ -9,4 +9,5 @@
 ![MySql](https://img.shields.io/badge/-MySql-green?style=for-the-badge&logo=Mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffa420?style=for-the-badge&logo=PostgreSQL&logoColor=7cfc00)
 ![Git](https://img.shields.io/badge/-Git-953ba3?style=for-the-badge&logo=Git&logoColor=black)
+![Jquery](https://img.shields.io/badge/-Jquery-c21010?style=for-the-badge&logo=Jquery&logoColor=12e319)
 Follow Me.
