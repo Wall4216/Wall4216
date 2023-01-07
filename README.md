@@ -11,8 +11,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffa420?style=for-the-badge&logo=PostgreSQL&logoColor=7cfc00)
 ![Git](https://img.shields.io/badge/-Git-953ba3?style=for-the-badge&logo=Git&logoColor=black)
 ![Jquery](https://img.shields.io/badge/-Jquery-c21010?style=for-the-badge&logo=Jquery&logoColor=12e319)
+<p style='width: 50%;
+  margin: 0 auto;
+'>
 ![Docker](https://img.shields.io/badge/-Docker-00a2e8?style=for-the-badge&logo=Docker&logoColor=4f0311)
 ![Solid](https://img.shields.io/badge/-Solid-020229?style=for-the-badge&logo=Solid&logoColor=10c242)
 ![Grasp](https://img.shields.io/badge/-Grasp-c3f205?style=for-the-badge&logo=Grasp&logoColor=ee05f2)
+</p>
 
 Follow Me.
