@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-00a2e8?style=for-the-badge&logo=Docker&logoColor=4f0311)
 ![Solid](https://img.shields.io/badge/-Solid-020229?style=for-the-badge&logo=Solid&logoColor=10c242)
 ![Grasp](https://img.shields.io/badge/-Grasp-c3f205?style=for-the-badge&logo=Grasp&logoColor=ee05f2)
-
+![Postman](https://img.shields.io/badge/-Postman-c3f205?style=for-the-badge&logo=Postman&logoColor=ee05f2)
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/WALL1642)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCMt363QAcc0e_nc_oLCEh5g)
