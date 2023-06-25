@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=orange)
 ![REST](https://img.shields.io/badge/-REST-yellow?style=for-the-badge&logo=REST&logoColor=blue)
 ![MySql](https://img.shields.io/badge/-MySql-green?style=for-the-badge&logo=Mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-green?style=for-the-badge&logo=Oracle&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=Vue&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffa420?style=for-the-badge&logo=PostgreSQL&logoColor=7cfc00)
 ![Git](https://img.shields.io/badge/-Git-953ba3?style=for-the-badge&logo=Git&logoColor=black)
 ![Jquery](https://img.shields.io/badge/-Jquery-c21010?style=for-the-badge&logo=Jquery&logoColor=12e319)
